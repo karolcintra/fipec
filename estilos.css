@@ -1,0 +1,24 @@
+body{
+    background-color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margins: 0;
+flex-direction: column;
+}
+
+*{
+    font-family: "EB Garamond" , serif;
+}
+h1{
+
+}
+
+p {
+    color:aqua(255, 0, 187);
+}
+img{
+    width:100px;
+    height:100px;
+}
